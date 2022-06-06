@@ -1,0 +1,41 @@
+.login {
+  padding: 100px;
+  -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  margin-left: 150px;
+  margin-right: 80px;
+  margin-top: 50px;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+input {
+  width: 200px;
+  height: 30px;
+  margin: 10px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+button {
+  width: 200px;
+  height: 30px;
+  border: none;
+  background-color: lightskyblue;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 20px;
+}
+span {
+  font-size: 12px;
+  color: red;
+  margin-top: 10px;
+}
+text {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: large;
+  font-weight: bold;
+  color: lightskyblue;
+  margin-bottom: 20px;
+}
